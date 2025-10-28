@@ -41,14 +41,6 @@ Mi enfoque se centra en **la calidad del código, el rendimiento** y la **experi
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariocorteslozano&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocorteslozano&layout=compact&theme=tokyonight&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=mariocorteslozano&color=blueviolet)
-
----
-
 ## 📫 Contacto
 
 📧 **Correo:** [corteslozanomario@gmail.com](mailto:corteslozanomario@gmail.com)  
